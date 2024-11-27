@@ -5,7 +5,18 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        rR: "Raleway-Regular",
+        rSB: "Raleway-SemiBold",
+        nmR: "NeueMachina-Regular",
+        nmUB: "NeueMachina-Ultrabold",
+        cSB: "Conthrax-SemiBold",
+      },
+      colors: {
+        bgBlue: "#071624",
+      }
+    },
   },
   plugins: [],
 }
