@@ -21,8 +21,8 @@ const Features = () => {
               </div>
             </div>
             <div className="text-left">
-              <h3 className="text-xl font-semibold mb-2">{feature.title}</h3>
-              <p className="text-sm opacity-75">{feature.description}</p>
+              <h3 className="text-xl font-rSB mb-2">{feature.title}</h3>
+              <p className="text-sm font-rR opacity-75">{feature.description}</p>
             </div>
           </div>
         ))}

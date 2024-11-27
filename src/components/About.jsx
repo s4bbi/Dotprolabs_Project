@@ -8,7 +8,7 @@ import glow4 from "../assets/Ellipse11.png";
 
 const ComparisonTable = () => {
   return (
-    <div className="relative bg-cover bg-center bg-no-repeat min-h-screen bg-bgBlue flex items-center justify-center">
+    <div className="relative bg-cover bg-center bg-no-repeat min-h-screen bg-bgBlue flex items-center justify-center px-4">
       <div>
         <img
           src={glow4}
