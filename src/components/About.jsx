@@ -3,9 +3,8 @@ import mooner_logo from "../assets/mooner_logo.png";
 import mooner_text from "../assets/mooner_text.png";
 import uniswap_logo from "../assets/uniswap_logo.png";
 import { FaCheck, FaTimes } from "react-icons/fa";
-import glow3 from "../assets/ellipse10.png";
-import glow4 from "../assets/ellipse11.png";
-import Features from "./Features.jsx";
+import glow3 from "../assets/Ellipse10.png";
+import glow4 from "../assets/Ellipse11.png";
 
 const ComparisonTable = () => {
   return (
