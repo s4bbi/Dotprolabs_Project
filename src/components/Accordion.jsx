@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { FaPlus, FaMinus } from 'react-icons/fa';
 import {faqs} from '../utils/faqs.js';
-import glow5 from "../assets/ellipse08.png";
-import glow6 from "../assets/ellipse07.png";
+import glow5 from "../assets/Ellipse08.png";
+import glow6 from "../assets/Ellipse07.png";
 
 const Accordion = () => {
   const [activeIndex, setActiveIndex] = useState(null);
